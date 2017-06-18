@@ -33,9 +33,19 @@ Therefore, on the Friday before the "roll date" of Monday, June 19th ( Or, befor
 
 - Wednesday, June 21, #2017
 
-Crude Oil Inventories will be announced (EIA) at 9:30 AM CDT
+Crude Oil Inventories will be announced (EIA) at 9:30 AM CDT.
 
-## Why it Matters
+**Caveat**. All TST traders long or short the CME-NYMEX Crude Oil (CL) Futures Contract(s ) or the CME-NYMEX E-mini Crude Oil (QM) Futures Contract(s) are precluded from having an open position, short or long, going into the announcement from (1) minute prior to the announcement period to (1) minute after the announcement period.
+
+In other words, you must be "flat" during the "two-minute window" of one minute before the announcement ( up to and including the announcement period ), plus one minute thereafter ( from the close of the announcement period plus sixty seconds ).
+
+If you find yourself long or short either of the designated futures contracts going into the "two-minute window" timeframe on the day of the announcement, please close out your position immediately.
+
+In addition, please refrain from opening up any new positions in the underlying commodities contracts during the announcement period.
+
+You may place your position back "on" after sixty (60) seconds have elapsed since the close of the announcement period, market conditions allowing, assuming there is enough time left in the daily trading session to do so.
+
+## Why it Matters?
 
 **Discussion**. The level of Crude Oil inventories in storage directly influences the price of petroleum products, and therefore indirectly impacts growth and inflation.
 
@@ -51,9 +61,27 @@ Why? Because a "fat" inventory reading begs the question ... "Why aren't motoris
 
 - Thursday, June 22, #2017
 
-Natural Gas Inventories will be announced (EIA) at 9:30 AM CDT
+Natural Gas Inventories will be announced (EIA) at 9:30 AM CDT.
 
-**Discussion**. The level of Natural Gas inventories in storage is an indicator of the change in supply from one week to the next week.
+**Caveat**. All TST traders long or short the CME-NYMEX Natural Gas (NG) Futures Contract(s ) or the CME-NYMEX E-mini Natural Gas (QG) Futures Contract(s) are precluded from having an open position, short or long, going into the announcement from (1) minute prior to the announcement period to (1) minute after the announcement period.
+
+In other words, you must be "flat" during the "two-minute window" of one minute before the announcement ( up to and including the announcement period ), plus one minute thereafter ( from the close of the announcement period plus sixty seconds ).
+
+If you find yourself long or short either of the designated futures contracts going into the "two-minute window" timeframe on the day of the announcement, please close out your position immediately.
+
+In addition, please refrain from opening up any new positions in the underlying commodities contracts during the announcement period.
+
+You may place your position back "on" after sixty (60) seconds have elapsed since the close of the announcement period, market conditions allowing, assuming there is enough time left in the daily trading session to do so.
+
+## Why Be Bothered?
+
+**Discussion**. The level of Natural Gas inventories in storage is an indicator of the change in supply from last week's reading to this week's reading.
+
+Generally, major economic releases such as the Natural Gas inventories reading may cause extreme volatility and large price swings.
+
+Therefore, placing trades right into the bullseye of an announcement period are very difficult to trade consistently and profitably.
+
+Hence, because of this increased risk, all TST traders should be "flat" during the "two minute window" described above.
 
 ## Forex Disclaimers
 
