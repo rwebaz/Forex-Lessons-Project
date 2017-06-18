@@ -1,2 +1,2 @@
 # Forex-Lessons-Project
-A repo of Forex lessons
+A GitHub repo of Forex lessons that emphasize the Top Step Trader engine
