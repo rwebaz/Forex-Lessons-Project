@@ -1,3 +1,9 @@
+---
+title: Crude Oil
+layout: default
+navigation_weight: 2
+---
+
 Forex TST
 
 Top Step Trader (TST)
