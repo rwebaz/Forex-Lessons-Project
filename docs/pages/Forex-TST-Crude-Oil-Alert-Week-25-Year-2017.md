@@ -45,7 +45,7 @@ In addition, please refrain from opening up any new positions in the underlying 
 
 You may place your position back "on" after sixty (60) seconds have elapsed since the close of the announcement period, market conditions allowing, assuming there is enough time left in the daily trading session to do so.
 
-## Why it Matters?
+## Why It Matters
 
 **Discussion**. The level of Crude Oil inventories in storage directly influences the price of petroleum products, and therefore indirectly impacts growth and inflation.
 
@@ -73,7 +73,7 @@ In addition, please refrain from opening up any new positions in the underlying 
 
 You may place your position back "on" after sixty (60) seconds have elapsed since the close of the announcement period, market conditions allowing, assuming there is enough time left in the daily trading session to do so.
 
-## Why Be Bothered?
+## Why Is This Important
 
 **Discussion**. The level of Natural Gas inventories in storage is an indicator of the change in supply from last week's reading to this week's reading.
 
@@ -81,7 +81,7 @@ Generally, major economic releases such as the Natural Gas inventories reading m
 
 Therefore, placing trades right into the bullseye of an announcement period are very difficult to trade consistently and profitably.
 
-Hence, because of this increased risk, all TST traders should be "flat" during the "two minute window" described above.
+Hence, because of this increased risk, all TST traders should be "flat" during the "two minute window" as described above.
 
 ## Forex Disclaimers
 
