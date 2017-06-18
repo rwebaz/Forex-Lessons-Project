@@ -3,36 +3,41 @@ title: Crude Oil
 layout: default
 navigation_weight: 2
 ---
+# Forex TST
 
-Forex TST
+## Top Step Trader (TST) Market Alerts
 
-Top Step Trader (TST)
+- For Trading Week ( ISO-8601 ) #25
 
-Market Alerts ( ISO-8601 ) For Trading Week #25
+**Note**. All ISO-8601 Trading Weeks start on a Monday and end on a Sunday
 
-Note. All ISO-8601 Trading Weeks start on a Monday and end on a Sunday
+## Upcoming Day Event and Time
 
-Upcoming Day Event and Time: Monday, June 19, #2017
+- Monday, June 19, #2017
 
-Event. Crude oil rolls from July (N7) to August (Q7)
+- Upon the daily close of the market
 
-Why it Matters
+**Event**. Crude oil rolls from July (N7) to August (Q7)
 
-Rule. To protect against overt risk and to avoid slippage at execution time, all TST traders should ONLY trade the most active month of an underlying contract.
+## Why This Matters
+
+**Rule**. To protect against overt risk and to avoid slippage at execution time, all TST traders should ONLY trade the most active month of an underlying contract.
 
 Therefore, on the Friday before the "roll date" of Monday, June 19th ( Or, before ) ...
 
-Action. Roll your long ( or, short ) positions from the expiring July (N7) contracts to the next August (Q7) contracts.
+**Action**. Roll your long ( or, short ) positions from the expiring July (N7) contracts to the next August (Q7) contracts.
 
-Other Notable Calendar Events For the Week
+## Other Notable Calendar Event No. 2 For the Week
 
-Wednesday, June 21, #2017
+- Crude Oil Inventories
 
-Crude Oil Inventories are announced (EIA) 9:30 AM CDT
+- Wednesday, June 21, #2017
 
-Why it Matters
+Crude Oil Inventories will be announced (EIA) at 9:30 AM CDT
 
-Discussion. The level of Crude Oil inventories in storage directly influences the price of petroleum products, and therefore indirectly impacts growth and inflation.
+## Why it Matters
+
+**Discussion**. The level of Crude Oil inventories in storage directly influences the price of petroleum products, and therefore indirectly impacts growth and inflation.
 
 Generally, a "fat" inventory reading correlates to a weakening in price, and therefore an indirect reduction in inflation expectations.
 
@@ -40,13 +45,17 @@ Expectations of future growth in GDP are also hampered by a "fat" inventory read
 
 Why? Because a "fat" inventory reading begs the question ... "Why aren't motorists and corporations drawing down the current stock of crude?"
 
-Thursday, June 22, #2017
+## Other Notable Calendar Event No. 3 For the Week
 
-Natural Gas Inventories are announced (EIA) 9:30 AM CDT
+- Natural Gas Inventories
 
-Discussion. The level of Natural Gas inventories in storage is an indicator of the change in supply in underground storage for the last week.
+- Thursday, June 22, #2017
 
-Forex Disclaimers
+Natural Gas Inventories will be announced (EIA) at 9:30 AM CDT
+
+**Discussion**. The level of Natural Gas inventories in storage is an indicator of the change in supply in underground storage for the last week.
+
+## Forex Disclaimers
 
 Futures and Options trading have large potential rewards.
 
@@ -64,7 +73,7 @@ No representation is being made that any account will or is likely to achieve pr
 
 Note. The past performance of any trading system or methodology is not necessarily indicative of future results.
 
-CFTC Rule 4.41
+## CFTC Rule 4.41
 
 Hypothetical or imulated performance results have certain limitations.
 
