@@ -53,7 +53,7 @@ Why? Because a "fat" inventory reading begs the question ... "Why aren't motoris
 
 Natural Gas Inventories will be announced (EIA) at 9:30 AM CDT
 
-**Discussion**. The level of Natural Gas inventories in storage is an indicator of the change in supply in underground storage for the last week.
+**Discussion**. The level of Natural Gas inventories in storage is an indicator of the change in supply from one week to the next week.
 
 ## Forex Disclaimers
 
