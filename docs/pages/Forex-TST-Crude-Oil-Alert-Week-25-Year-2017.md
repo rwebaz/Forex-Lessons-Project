@@ -23,9 +23,11 @@ navigation_weight: 2
 
 **Rule**. To protect against overt risk and to avoid slippage at execution time, all TST traders should ONLY trade the most active month of an underlying contract.
 
-Therefore, on the Friday before the "roll date" of Monday, June 19th ( Or, before ) ...
+Therefore, on the Friday before the "roll date" up to and including the time before the trading session for the "roll date" of Monday, June 19th begins, you may per Ashley "Roll now, you do not have to roll from Friday".
 
-**Action**. Roll your long ( or, short ) positions from the expiring July (N7) contracts to the next August (Q7) contracts.
+So, even on the Sunday before the "roll date", you may "roll now".
+
+**Action**. Roll your long ( or, short ) positions from the expiring July (N7) contracts into the next batch of August (Q7) contracts.
 
 ## Other Notable Calendar Event No. 2 For the Week
 
