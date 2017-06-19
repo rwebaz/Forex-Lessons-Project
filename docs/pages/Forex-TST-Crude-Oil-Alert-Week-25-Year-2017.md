@@ -114,3 +114,17 @@ Also, because the trades have not actually been executed, the results may have u
 Simulated trading programs in general are also subject to the fact that they are designed with the benefit of hindsight.
 
 No representation is being made that any account will or is likely to achieve profit or losses similar to those shown.
+
+## TST Trading Deadlines for ALL Traders and ALL products
+
+**The Weekend**. Please be "flat" on ALL trades by 3:10 pm CDT Friday ( 1:10 pm MST )
+
+**Caveat**. Trading is prohibited over the weekend until Globex re-opens once again on Sunday afternoon at 5:00 pm CDT ( 3:00 pm MST )
+
+You may carry a position "overnight" from 5:00 pm CDT Sunday until 3:10 pm CDT the following trading day on Monday.
+
+Please be "flat" on ALL trades by 3:10 pm CDT Monday ( 1:10 pm MST )
+
+**Note**. Trading is prohibited during the afternoon "recharge" period from 3:10 pm CDT to 5:00 pm CDT on Mondays, Tuesdays, Wednesdays, and Thursdays.
+
+You may carry a position "overnight" from 5:00 pm CDT Thursday until 3:10 pm CDT the following trading day on Friday.
