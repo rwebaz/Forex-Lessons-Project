@@ -117,6 +117,8 @@ No representation is being made that any account will or is likely to achieve pr
 
 ## TST Trading Deadlines for ALL Traders and ALL products
 
+There are approximately 250 trading days per year per the annual Goldman Sachs 10-k report filed with the SEC.
+
 **The Weekend**. Please be "flat" on ALL trades by 3:10 pm CDT Friday ( 1:10 pm MST )
 
 **Caveat**. Trading is prohibited over the weekend until Globex re-opens once again on Sunday afternoon at 5:00 pm CDT ( 3:00 pm MST )
