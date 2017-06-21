@@ -95,7 +95,7 @@ Dear Reader:
 
 You must be aware of the risks and be willing to accept them in order to invest in the futures and options markets.
 
-Pleas DO NOT trade with money you cannot afford to lose.
+Please DO NOT trade with money you cannot afford to lose.
 
 This disclaimer is neither a solicitation, nor an offer to Buy or Sell futures, stocks, or options on the same.
 
