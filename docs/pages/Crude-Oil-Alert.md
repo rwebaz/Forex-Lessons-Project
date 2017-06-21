@@ -1,5 +1,5 @@
 ---
-title: Crude Oil
+title: Crude Oil Alert
 layout: default
 navigation_weight: 2
 ---
@@ -101,11 +101,11 @@ This disclaimer is neither a solicitation, nor an offer to Buy or Sell futures, 
 
 No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed in this document, if any.
 
-Note. The past performance of any trading system or methodology is not necessarily indicative of future results.
+**Note**. The past performance of any trading system or methodology is not necessarily indicative of future results.
 
 ## CFTC Rule 4.41
 
-Hypothetical or imulated performance results have certain limitations.
+Hypothetical or simulated performance results have certain limitations.
 
 Unlike an actual performance record, simulated results do not represent actual trading.
 
