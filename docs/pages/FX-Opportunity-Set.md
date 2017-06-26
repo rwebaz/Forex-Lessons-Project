@@ -193,5 +193,3 @@ No representation is being made that any account will or is likely to achieve pr
 ***
 
 Source: [The Institute of Trading by Anton Kreil](https://youtu.be/D6ryFCygjiQ){:target="_blank"}
-
-***
