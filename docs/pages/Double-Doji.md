@@ -23,11 +23,17 @@ It look-a like this ...
 
 For example, at the top of a trend, the **Single Doji** signals an auto reversal without any requisite confirmation.
 
-Whereas, the more modern *Heikin-Ashi* candles take into consideration the previous candle close thus setting up a potential **Double Doji** phenomenon.
+Whereas, the more modern *Heikin-Ashi* candles take into consideration the previous candle open and close thus setting up a potential **Double Doji** phenomenon.
 
 ## Heikin-Ashi Candles
 
 When a set of identical **Single Doji** appear on a one-minute chart back-to-back, one should always take quick notice.
+
+Remember, the open price for the 2nd candle in succession is de­rived from the pre­vi­ous can­dle open and close prices.
+
+A simple average of the two previous price points creates the open price for the 2nd candle.
+
+## Double Trouble
 
 The  **Double Doji** is one of the most important *Heikin-Ashi* candle formation signals you will come across when trading ultra short term ie.) *when hypertrading*.
 
@@ -40,6 +46,8 @@ The formation is created when the opening price and closing price are the same o
 This forms a horizontal line.
 
 The implication is that the bulls and the bears are in a state of indecision.
+
+And, with a set of back-to-back *Heikin-Ashi* candles forming separate *doji*, with each respective market opening based on the average open and close of the previous candle, one can see the tightness of call.
 
 ## Run For The Hills
 
