@@ -1,9 +1,20 @@
 ---
 title: Crude Oil Alert
 layout: default
-navigation_weight: 2
+excerpt: Place the introducing line of text ie.) the 'lead' here ...
+version: Page Template md Dtd 02-16-18
+navigation_weight: 8
+categories: template
 ---
-# Forex TST
+# {{ page.title }}
+
+{{ page.excerpt }}
+
+{% include toc.md %}
+
+## Forex TST
+
+More to come ...
 
 ## Top Step Trader (TST) Market Alerts
 
@@ -130,3 +141,25 @@ Please be "flat" on ALL trades by 3:10 pm CDT Monday ( 1:10 pm MST )
 **Note**. Trading is prohibited during the afternoon "recharge" period from 3:10 pm CDT to 5:00 pm CDT on Mondays, Tuesdays, Wednesdays, and Thursdays.
 
 You may carry a position "overnight" from 5:00 pm CDT Thursday until 3:10 pm CDT the following trading day on Friday.
+
+## Last Subtitle
+
+**Note**. The above synopsis was derived from an article written by Blank [[2](#BLANK){:.red}].
+
+### Raw Code Block
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
+
+{% include sources-and-uses.md %}
+
+1. {:#BLANK}[The Blank Live at The Blank Festival, 2000](https://youtu.be/Blank){:title='Click to Watch the YouTube video of the Blank Live at the The Blank Festival, 2000'}{:target='_blank'}.
+
+### External Sources
+
+- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/Shell/Source-Shell-Links.htm){:title='Click to Visit the Source Links page of the Shell Lessons Project at Concepts Library'}{:target='_blank'} page of the Shell Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
+
+**Note**. This page crafted with {{ page.version }}.
