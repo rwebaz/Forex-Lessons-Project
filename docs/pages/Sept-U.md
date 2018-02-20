@@ -34,8 +34,6 @@ Either way, you should be looking to close out your trades prior to the cutoff t
 
 Let's say by noon Chicago time, you best have your profits from the overnite trade in the bag.
 
-{% include toc-flammarion.md %}
-
 ## Last Subtitle
 
 **Note**. The above synopsis was derived from an article written by Blank [[2](#BLANK){:.red}].
