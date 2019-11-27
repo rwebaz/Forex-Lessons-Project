@@ -1,24 +1,24 @@
 ---
 title: Cypher Punk
 layout: default
-excerpt: Place the introducing line of text ie.) the 'lead' here ...
-version: Page Template md Dtd 02-16-18
+excerpt: Place the introducing line of text ie.) the 'tagline' here ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Forex-Lessons-Project
+ver_date: 11-26-19
 navigation_weight: 8
-categories: template
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
 
 ## Money Laundering
 
-Place the introducing line of text ie.) the 'tagline' here ...
+> **Hint**. {{ page.hint }}
 
-## Unlicensed Money Transmitter
+More to come ...
 
-Place the introducing line of text ie.) the 'tagline' here ...
+### Unlicensed Money Transmitter
+
+More to come ...
 
 ## Tor Browser
 
@@ -306,28 +306,16 @@ Stay tuned ...
 
 And, don't forget to bury that Bitcoin address under the maple tree in back ...!
 
-## Import Code
+## Last Subtitle
 
 More to come ...
 
-## Last Subtitle
+***
 
-**Note**. The above synopsis was derived from an article written by Eric Morse [[2](#BLANK){:.red}].
+**Note**. The above synopsis was derived from an article written by Eric Morse [[1](#ERICMORSE){:.red}].
 
-### Raw Code Block
+1. {:#ERICMORSE}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Review ..."}{:target="_blank"}
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+***
 
-{% include sources-and-uses.md %}
-
-1. {:#BLANK}[Using Bitcoin](https://youtu.be/Blank){:title='Click to Watch the YouTube video of the Blank Live at the The Blank Festival, 2000'}{:target='_blank'} by Eric Morse.
-
-### External Sources
-
-- {:#SOURCELINKS}The [Project Source Links](https://mminail.github.io/Forex/Source-Forex-Links.htm){:title='Click to Visit the Source Links page of the Forex Lessons Project at Concepts Library'}{:target='_blank'} page of the Forex Lessons Project at Concepts Library. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
-
-**Note**. This page crafted with {{ page.version }}.
+{% include patreon-link.md %}
